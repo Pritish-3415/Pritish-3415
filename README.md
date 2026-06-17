@@ -73,5 +73,6 @@ Machine Learning Project using Python
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Pritish-3415
+* LinkedIn: https://www.linkedin.com/in/pritish-kumar-behera/
 
 ⭐ Always learning and building.
